@@ -1,3 +1,3 @@
 Step 1. Download this repository
 
-![][/misc/download.png] 
+![](/misc/download.png) 
